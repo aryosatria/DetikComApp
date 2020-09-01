@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DetikComApp</string>
+    <string name="menu_terbaru">Terbaru</string>
+    <string name="menu_beritautama">Berita Utama</string>
+    <string name="menu_antarkansemangat">#AntarkanSemangat</string>
+    <string name="menu_mostpopular">Most Popular</string>
+    <string name="var_contdesc">contdesc</string>
+    <string name="judul_headline">Judul Headline</string>
+    <string name="deskripsi_headline">Deskripsi Headline</string>
+    <string name="home">Home</string>
+    <string name="fotodesc">Foto : Dok. detiknews</string>
+    <string name="detiknews">detikNews</string>
+    <string name="reporter">Yudistira Saoutra - detikNews</string>
+    <string name="time">Jumat, 1 Juli 2020 - 17.30 WIB</string>
+    <string name="iklan">Baca Juga : Judul Berita Terkait</string>
+    <string name="judul_berita">judul berita</string>
+</resources>
